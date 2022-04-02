@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanabunDiscord", "NanabunDiscord\NanabunDiscord.csproj", "{409588F0-3A74-45E6-BA6A-4366C535591A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanabunWhatsApp", "NanabunWhatsApp\NanabunWhatsApp.csproj", "{70D98B59-EA2F-4FC1-8A28-563AF997E7A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409588F0-3A74-45E6-BA6A-4366C535591A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409588F0-3A74-45E6-BA6A-4366C535591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409588F0-3A74-45E6-BA6A-4366C535591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409588F0-3A74-45E6-BA6A-4366C535591A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D98B59-EA2F-4FC1-8A28-563AF997E7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D98B59-EA2F-4FC1-8A28-563AF997E7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D98B59-EA2F-4FC1-8A28-563AF997E7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D98B59-EA2F-4FC1-8A28-563AF997E7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
